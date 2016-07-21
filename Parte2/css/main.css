@@ -1,0 +1,28 @@
+div{
+    width: 600px;
+    border: 1px solid #CCCCCC;
+}
+
+.uno{
+     background-color: #FFFF00;
+     width: 25% ;
+     height:100px ;
+     border-style: none;
+     float: left;
+}
+
+.dos{
+     background-color: #3A81BA;
+     width:25% ;
+     height:100px ;
+     border-style: none;
+     float: left;
+}
+
+.tres{
+     background-color: #ED2251;
+     width: 25%;
+     height:100px ;
+     border-style: none;
+     float: left;
+}
